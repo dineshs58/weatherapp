@@ -1,0 +1,51 @@
+#navbar
+{
+    position: sticky;
+    top: 0px;
+   
+}
+
+.navbar
+{
+    background-color: #fff;
+    height: auto;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.header_color
+{
+    color: black !important;
+    text-transform: uppercase;
+    font-weight: bolder;
+    margin: 0px 10px;
+}
+.header_color:hover
+{
+    color: rgb(255, 0, 128) !important;
+    
+}
+.logo
+{
+    color: black !important;
+    font-weight: bolder;
+}
+.logos
+{
+    position: fixed;
+    left: 70px;
+    top: 5px;
+}
+.btns
+{
+    width: 150px;
+    height: 40px;
+    background-color: rgb(255, 0, 128) !important;
+    border: none !important;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+#navbar > div > button
+{
+    box-shadow: none !important;
+    border: none;
+    color: black !important;
+}

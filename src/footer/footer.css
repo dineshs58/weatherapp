@@ -1,0 +1,14 @@
+.back_Ground
+{
+    background-color: black;
+    height: auto;
+}
+.footers
+{
+    color: white;
+    margin-top: 50px;
+}
+.footers p
+{
+    margin: 10px;
+}
